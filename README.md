@@ -1,12 +1,6 @@
-# Group-One
- 1. in which you will include introduction of your team, your team project, and each team members
- 2. Perhaps include each members’ photos and a short bio of each indicating what their specialties and hobbies are etc. This “About” page will be part of your final project
- 3. Then make each person clickable with a link to each person’s individual page for more detailed information about that team member
- 4. For creating individual pages, each individual in your team should clone the team’s GitHub repository into his/her individual shell account or onto your local computer, and within the chosen team framework
- 5. Create a page that at a minimum displays your name and some other image (it is a good idea to use your own image which is useful for your ABOUT page and portfolio).  Please make sure that you have the right to use that image. This work has to be completed by each individual student and then be pushed to the team’s GitHub repository.  The file(s) created/added should then be merged into the team’s GitHub repository. 
-6. One of your teammates will need to modify your team’s home page to point to all the different team member’s pages. This account (your team’s LAMP server account) will be used to deploy your final term project
+# Group-One (Avalanche)
 
-
+**Hello, We are a group of CS & CE majors hoping to create and learn the intricacies of software development from team delegation, time management, creating a workflow, and learn anything regarding the best practices in the industry.**
 
 
 # Project Title (Milestone 0)
@@ -154,11 +148,56 @@ I get along quite well with peers, specially those who share my same interests.*
 ***
 
 -----------------------------------------------------------------------------------------------------------------------------
+
+
+**JoseAndres Hernandez-Bueso**
+
+![ppu1](https://user-images.githubusercontent.com/83418923/131942946-076a1986-55ac-466c-b9ba-9948920e1d93.jpg)
+
+
+
+### About Me: 
+
+***I am currently completing a dual degree in Computer Engineering and Computer Science with a Minor in Artificial Intelligence at Florida Atlantic University. I am looking forward to beginning a career in Software and Hardware development for the benefit of others and society. 
+Life-long learner, always looking to do something new and continue moving forward.***
+
+### Education:
+
+***Florida Atlantic University: Bachelor of Computer Engineering & Computer Science with a Minor in Artificial Intelligence***
+
+### Programming Languages & Certifications:
+***
+Programming Languages:
+* C++
+* Python
+* HTML5/CSS
+* JavaScript
+
+Certifications:
+* Mission Ready Operator
+* Urban Direction Finder
+***
+
+### Hobbies
+***
+* USAF
+* Brazilian Jiu-Jitsu
+* Soccer
+* Coding
+* Gaming
+* Reading
+***
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## Authors
 
 Eli's ![GitHub](https://github.com/Eli-Code365/Eli-Code365.git)
 
+Jose S's ![GitHub](https://github.com/JGSilverio/Principle-of-SE-Group-Project.git)
+
 Ryan's ![GitHub](https://github.com/RyanSDevelopment/About-Me.git)
 
 Giovanni's ![GitHub](https://github.com/Onav2/Principles-of-Software-Engineering-Gio.git)
+
+JoseAndres' ![GitHub](https://github.com/Joseandreshb/homepage.git)
 
